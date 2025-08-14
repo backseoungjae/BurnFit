@@ -21,7 +21,8 @@
       "@hooks/*": ["src/hooks/*"],
       "@utils/*": ["src/utils/*"],
       "@store/*": ["src/store/*"],
-      "@types/*": ["src/types/*"]
+      "@types/*": ["src/types/*"],
+      "@styles/*": ["src/styles/*"]
     }
   },
   "exclude": ["node_modules"]
