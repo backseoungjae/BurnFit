@@ -26,7 +26,7 @@ const LibraryTabIcon = ({ color, size }: IconProps) => (
 );
 
 const MyPageTabIcon = ({ color, size }: IconProps) => (
-  <Octicons name="person" size={size} color={color} />
+  <Octicons name="person-fill" size={size} color={color} />
 );
 
 const Tab = createBottomTabNavigator();
